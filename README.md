@@ -13,5 +13,5 @@ newfile <project_name>
 DKCharm <project_name>
 ```
 ### HotCommands:
-qwasd - run project in dyokey
-clearAll - remove project
+######qwasd - run project in dyokey
+######clearAll - remove project

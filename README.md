@@ -12,6 +12,8 @@ Open in cmd dyokey folder and type this commands:
 newfile <project_name>
 DKCharm <project_name>
 ```
-### HotCommands:
-######qwasd - run project in dyokey
-######clearAll - remove project
+# HotCommands:
+```
+qwasd - Run file in dyokey
+clearAll - remove your project
+```
